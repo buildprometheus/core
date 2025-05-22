@@ -27,10 +27,10 @@ The result? Clean electricity. Useful heat. And **solid carbon bricks**.
 
 This repo is the canonical home for:
 
+- Feasibility studies
 - System diagrams
 - Energy and mass flow models
 - Process control concepts
-- Bill of Materials (BoM) for DIY builds
 - Hardware design files (eventually)
 - Engineering challenges & discussion
 
